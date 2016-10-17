@@ -8,8 +8,8 @@ dofile('utilities.lua')
 ----config----
 local bot_api_key = "291740618:AAG0XopQ1Q-hwUJHbg22tGlPvBCigXKQN_g" --BOT TOKEN تو کن ربات خود را در اینجا قرار دهید
 local You = 267874402  --ID ADMIN ایدی خود را اینجا قرار دهید
-local BASE_URL = "https://api.telegram.org/bot242373637:AAFO0DCIZjOvLwM094uinlZFad6rxZXj6rk"..bot_api_key
-local BASE_FOLDER = ""
+local BASE_URL = "https://api.telegram.org/bot267874402:446b12de68b6157fa67759500f372606"..bot_api_key
+local BASE_FOLDER = "pvresan"
 local start = [[ ]]
 
 -------
